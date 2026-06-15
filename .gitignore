@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+
+# Each subdirectory has its own .gitignore
